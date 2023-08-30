@@ -1,3 +1,4 @@
+google.com, pub-8444736822191189, DIRECT, f08c47fec0942fa0
 OWNERDOMAIN=
 MANAGERDOMAIN=themoneytizer.com
 themoneytizer.com,108060,DIRECT

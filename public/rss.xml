@@ -1,11 +1,11 @@
 <rss version="2.0">
     <channel>
-      <title>Ejemplo de Feed RSS</title>
-      <link>https://www.ejemplo.com</link>
-      <description>Este es un ejemplo de un feed RSS.</description>
+      <title>SinPauta - Noticias de Actualidad</title>
+      <link>https://www.sinpauta.com</link>
+      <description>Las últimas noticias de actualidad de SinPauta.</description>
       <language>es</language>
-      <pubDate>Wed, 01 Sep 2023 12:00:00 GMT</pubDate>
-      <lastBuildDate>Wed, 01 Sep 2023 12:00:00 GMT</lastBuildDate>
+      <pubDate>Mon, Sep 04, 2023, 09:24:54 PM GMT-3</pubDate>
+      <lastBuildDate>Mon, Sep 04, 2023, 09:24:54 PM GMT-3</lastBuildDate>
       <docs>http://www.rssboard.org/rss-specification</docs>
       <generator>Mi Generador de Feeds</generator>  
         <item>
@@ -14,7 +14,7 @@
           <description>En una reciente decisión legal, el presidente de Argentina, Alberto Fernández, ha sido declarado "en rebeldía" en el marco de una demanda por daños y perjuicios presentada por el juez de la Cámara Federal, Leopoldo Bruglia. La demanda, que asciende a una cuantiosa suma, fue iniciada debido a declaraciones hechas por el mandatario que supuestamente afectaron la reputación y la imagen pública del juez Bruglia..</description>
           <pubDate>2023-09-04</pubDate>
           <guid isPermaLink="false">67890</guid>
-          <enclosure url="https://firebasestorage.googleapis.com/v0/b/autocompromiso-32ca7.appspot.com/o/5ETmTP49k%2FDeclaran-a-Alberto-Fernndez-en-Rebelda-en-Demanda-por-Daos-y-Perjuicios.jpeg?alt=media&token=fa44eaea-6bdb-4f2a-b4c5-0f97cdf8e689" type="image/jpeg" />
+          <enclosure url="https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fautocompromiso-32ca7.appspot.com%2Fo%2F5ETmTP49k%252FDeclaran-a-Alberto-Fernndez-en-Rebelda-en-Demanda-por-Daos-y-Perjuicios.jpeg%3Falt%3Dmedia%26token%3Dfa44eaea-6bdb-4f2a-b4c5-0f97cdf8e689" type="image/jpeg" />
 
         </item> 
         <item>
@@ -23,7 +23,7 @@
           <description>Cada año, el 4 de septiembre se celebra el Día Mundial de la Salud Sexual, un día dedicado a concienciar sobre la importancia de la salud sexual y promover el bienestar sexual en todo el mundo. Esta fecha es una oportunidad para reflexionar sobre los desafíos que enfrentamos en este ámbito y para abogar por un acceso equitativo a la educación sexual y los servicios de salud.</description>
           <pubDate>2023-09-04</pubDate>
           <guid isPermaLink="false">67890</guid>
-          <enclosure url="https://firebasestorage.googleapis.com/v0/b/autocompromiso-32ca7.appspot.com/o/5ETmTP49k%2FDa-Mundial-de-la-Salud-Sexual-Promoviendo-el-Bienestar-y-la-Educacin.jpeg?alt=media&token=8c03f600-2d9f-43b2-b4a9-da4b9f664853" type="image/jpeg" />
+          <enclosure url="https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fautocompromiso-32ca7.appspot.com%2Fo%2F5ETmTP49k%252FDa-Mundial-de-la-Salud-Sexual-Promoviendo-el-Bienestar-y-la-Educacin.jpeg%3Falt%3Dmedia%26token%3D8c03f600-2d9f-43b2-b4a9-da4b9f664853" type="image/jpeg" />
 
         </item> 
         <item>
@@ -32,7 +32,7 @@
           <description>Mar del Plata, 3 de septiembre de 2023 - En un oscuro episodio que ha conmocionado a la comunidad local, un joven de 23 años se encuentra luchando por su vida en terapia intensiva después de ser víctima de un violento asalto el pasado sábado por la noche en el barrio Malvinas Argentinas de Mar del Plata..</description>
           <pubDate>2023-09-03</pubDate>
           <guid isPermaLink="false">67890</guid>
-          <enclosure url="https://firebasestorage.googleapis.com/v0/b/autocompromiso-32ca7.appspot.com/o/5ETmTP49k%2FViolento-Asalto-en-Mar-del-Plata-Joven-de--Aos-Baleado-para-robarle-su-Bicicleta-.jpeg?alt=media&token=1054f4da-4e70-4dec-88ab-ec91ab524f80" type="image/jpeg" />
+          <enclosure url="https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fautocompromiso-32ca7.appspot.com%2Fo%2F5ETmTP49k%252FViolento-Asalto-en-Mar-del-Plata-Joven-de--Aos-Baleado-para-robarle-su-Bicicleta-.jpeg%3Falt%3Dmedia%26token%3D1054f4da-4e70-4dec-88ab-ec91ab524f80" type="image/jpeg" />
 
         </item> 
         <item>
@@ -41,7 +41,7 @@
           <description>Madrid, 02 de septiembre de 2023 - La reconocida cantante argentina Tini Stoessel vivió una experiencia desafiante en la famosa fiesta "Bresh" de Madrid, donde fue abucheada por parte del público asistente..</description>
           <pubDate>2023-09-03</pubDate>
           <guid isPermaLink="false">67890</guid>
-          <enclosure url="https://firebasestorage.googleapis.com/v0/b/autocompromiso-32ca7.appspot.com/o/5ETmTP49k%2FTini-Stoessel-fue-abucheada-en-la-Bresh-de-Madrid-y-protagoniz-un-incmodo-momento.jpeg?alt=media&token=281de44d-94a0-45fe-88cc-7ae34d1d65cc" type="image/jpeg" />
+          <enclosure url="https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fautocompromiso-32ca7.appspot.com%2Fo%2F5ETmTP49k%252FTini-Stoessel-fue-abucheada-en-la-Bresh-de-Madrid-y-protagoniz-un-incmodo-momento.jpeg%3Falt%3Dmedia%26token%3D281de44d-94a0-45fe-88cc-7ae34d1d65cc" type="image/jpeg" />
 
         </item> 
         <item>
@@ -50,7 +50,7 @@
           <description>La Organización Panamericana de la Salud (OPS) emitió una alerta importante hoy, destacando la creciente preocupación sobre la disminución de las coberturas de vacunación infantil contra el sarampión y el riesgo potencial de brotes en la región de las Américas. La OPS insta a todos los países de las Américas a tomar medidas inmediatas para actualizar sus planes de respuesta y fortalecer la inmunización infantil..</description>
           <pubDate>2023-09-02</pubDate>
           <guid isPermaLink="false">67890</guid>
-          <enclosure url="https://firebasestorage.googleapis.com/v0/b/autocompromiso-32ca7.appspot.com/o/5ETmTP49k%2FOPS-Alerta-sobre-la-Importancia-de-la-Vacunacin-contra-el-Sarampin.jpeg?alt=media&token=5f2bfc14-abc5-4340-88a6-ae00732fcbec" type="image/jpeg" />
+          <enclosure url="https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fautocompromiso-32ca7.appspot.com%2Fo%2F5ETmTP49k%252FOPS-Alerta-sobre-la-Importancia-de-la-Vacunacin-contra-el-Sarampin.jpeg%3Falt%3Dmedia%26token%3D5f2bfc14-abc5-4340-88a6-ae00732fcbec" type="image/jpeg" />
 
         </item> 
         <item>
@@ -59,7 +59,7 @@
           <description>Emiliano "Dibu" Martínez, el arquero argentino que desempeñó un papel fundamental en la victoria de la Selección Argentina en la Copa del Mundo de Qatar, celebra su primer cumpleaños después de este histórico logro. Con 31 años recién cumplidos, Dibu ha recibido numerosos saludos y mensajes de felicitación de parte de sus compañeros de equipo..</description>
           <pubDate>2023-09-02</pubDate>
           <guid isPermaLink="false">67890</guid>
-          <enclosure url="https://firebasestorage.googleapis.com/v0/b/autocompromiso-32ca7.appspot.com/o/5ETmTP49k%2FLa-Seleccin-Argentina-Celebra-el-Cumpleaos-de-Dibu-Martnez-Mensajes-y-Buenos-Deseos.jpeg?alt=media&token=ee0ef5af-e458-4922-8d0c-5203f7d16f07" type="image/jpeg" />
+          <enclosure url="https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fautocompromiso-32ca7.appspot.com%2Fo%2F5ETmTP49k%252FLa-Seleccin-Argentina-Celebra-el-Cumpleaos-de-Dibu-Martnez-Mensajes-y-Buenos-Deseos.jpeg%3Falt%3Dmedia%26token%3Dee0ef5af-e458-4922-8d0c-5203f7d16f07" type="image/jpeg" />
 
         </item> 
         <item>
@@ -68,7 +68,7 @@
           <description>En un emocionante enfrentamiento en Twitter, el carismático economista y político argentino, Javier Gerardo Milei se ha destacado al desafiar abiertamente al actual candidato presidencial y economista de Argentina, Sergio Massa, en un intercambio que ha cautivado la atención del país..</description>
           <pubDate>2023-09-02</pubDate>
           <guid isPermaLink="false">67890</guid>
-          <enclosure url="https://firebasestorage.googleapis.com/v0/b/autocompromiso-32ca7.appspot.com/o/5ETmTP49k%2FJavier-Milei-Desafa-a-Sergio-Massa-Un-Debate-en-el-Centro-de-la-Poltica-Argentina.jpeg?alt=media&token=d0ea7e74-dd67-4795-a7a4-51737c2bb279" type="image/jpeg" />
+          <enclosure url="https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fautocompromiso-32ca7.appspot.com%2Fo%2F5ETmTP49k%252FJavier-Milei-Desafa-a-Sergio-Massa-Un-Debate-en-el-Centro-de-la-Poltica-Argentina.jpeg%3Falt%3Dmedia%26token%3Dd0ea7e74-dd67-4795-a7a4-51737c2bb279" type="image/jpeg" />
 
         </item> 
         <item>
@@ -77,7 +77,7 @@
           <description>Guillermo Moreno, una figura respetada en la política argentina, ofreció recientemente una perspicaz observación sobre Javier Milei, el influyente economista y político argentino. Moreno destacó un aspecto notable de Milei: su motivación en la política va más allá de la acumulación de riqueza personal..</description>
           <pubDate>2023-09-02</pubDate>
           <guid isPermaLink="false">67890</guid>
-          <enclosure url="https://firebasestorage.googleapis.com/v0/b/autocompromiso-32ca7.appspot.com/o/5ETmTP49k%2FGuillermo-Moreno-Destaca-Javier-Milei-no-se-Motiva-por-la-Plata-Sino-por-sus-Convicciones.jpeg?alt=media&token=f572b731-f591-4f66-bf49-65cfb108239f" type="image/jpeg" />
+          <enclosure url="https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fautocompromiso-32ca7.appspot.com%2Fo%2F5ETmTP49k%252FGuillermo-Moreno-Destaca-Javier-Milei-no-se-Motiva-por-la-Plata-Sino-por-sus-Convicciones.jpeg%3Falt%3Dmedia%26token%3Df572b731-f591-4f66-bf49-65cfb108239f" type="image/jpeg" />
 
         </item> 
         <item>
@@ -86,7 +86,7 @@
           <description>Don Ramón, un icónico personaje de la popular serie de televisión "El Chavo del 8", ha dejado una huella imborrable en la cultura popular. Sin embargo, lo que hace que este personaje sea aún más especial es la profunda conexión entre el actor que lo interpretó, Ramón Valdés, y el propio Don Ramón. En este artículo, exploraremos cómo este actor y su personaje se entrelazaron de una manera única, hasta el punto en que es difícil determinar quién influyó en quién..</description>
           <pubDate>2023-09-02</pubDate>
           <guid isPermaLink="false">67890</guid>
-          <enclosure url="https://firebasestorage.googleapis.com/v0/b/autocompromiso-32ca7.appspot.com/o/5ETmTP49k%2FEl-inolvidable-Don-Ramn-y-la-simbiosis-entre-el-hombre-y-el-personaje.jpeg?alt=media&token=7e412e2a-4991-4067-aa8d-2496a7a4cb98" type="image/jpeg" />
+          <enclosure url="https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fautocompromiso-32ca7.appspot.com%2Fo%2F5ETmTP49k%252FEl-inolvidable-Don-Ramn-y-la-simbiosis-entre-el-hombre-y-el-personaje.jpeg%3Falt%3Dmedia%26token%3D7e412e2a-4991-4067-aa8d-2496a7a4cb98" type="image/jpeg" />
 
         </item> 
         <item>
@@ -95,7 +95,7 @@
           <description> Claro, aquí tienes una nota periodística basada en la información proporcionada:  Título: Avances de las Tropas Ucranianas en Medio del Conflicto con Rusia Fecha: 02 de septiembre de 2023  Fuente: El País  El presidente de Ucrania, Volodímir Zelenski, ha reportado con optimismo los avances de las fuerzas ucranianas en su contraofensiva contra las Fuerzas rusas en medio del prolongado conflicto. Contradiciendo las afirmaciones de funcionarios occidentales que señalaban un progreso lento, Zelenski enfatizó que las tropas de Kiev están en constante movimiento y han logrado la recuperación de una docena de aldeas en los últimos tres meses..</description>
           <pubDate>2023-09-02</pubDate>
           <guid isPermaLink="false">67890</guid>
-          <enclosure url="https://firebasestorage.googleapis.com/v0/b/autocompromiso-32ca7.appspot.com/o/5ETmTP49k%2FAvances-de-las-Tropas-Ucranianas-en-Medio-del-Conflicto-con-Rusia.jpeg?alt=media&token=a4ee83be-0cc2-43c6-8aa8-fcda9938c5a0" type="image/jpeg" />
+          <enclosure url="https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fautocompromiso-32ca7.appspot.com%2Fo%2F5ETmTP49k%252FAvances-de-las-Tropas-Ucranianas-en-Medio-del-Conflicto-con-Rusia.jpeg%3Falt%3Dmedia%26token%3Da4ee83be-0cc2-43c6-8aa8-fcda9938c5a0" type="image/jpeg" />
 
         </item>  </channel>
       </rss>

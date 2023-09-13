@@ -17,7 +17,6 @@ firebase.initializeApp(firebaseConfig);
 const messaging = firebase.messaging();
 
 messaging.onBackgroundMessage((payload) => {
-  console.log(payload)
   const options = {
     body: payload.notification.body,
     icon: '/sinpauta.png',

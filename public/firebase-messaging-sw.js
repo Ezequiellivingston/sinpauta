@@ -17,10 +17,15 @@ firebase.initializeApp(firebaseConfig);
 const messaging = firebase.messaging();
 
 messaging.onBackgroundMessage((payload) => {
+  console.log(payload, 'asdasd')
   const options = {
     body: payload.notification.body,
     icon: '/sinpauta.png',
     badge: payload.notification.image,
+    click_action: "OPEN_LINK_ACTIVITY",
+    data: {
+      url: payload.data.url,
+    },
   };
   
   return  self.registration.showNotification(payload.notification

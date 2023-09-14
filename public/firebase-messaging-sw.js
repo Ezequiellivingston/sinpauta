@@ -25,7 +25,9 @@ messaging.onBackgroundMessage(payload => {
     body: payload.notification.body,
     icon: "https://www.sinpauta.com/sinpauta.png",
     badge: payload.notification.image,
-    click_action: payload.data.url
+    data: {
+      url: payload.data.url
+    }
   };
 
   return self.registration.showNotification(

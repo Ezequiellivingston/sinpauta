@@ -7,7 +7,7 @@ importScripts(
 
 let firebaseConfig = {};
 
-if(process?.env?.FIREBASE_API_KEY){
+if (process) {
   firebaseConfig = {
     apiKey: process.env.FIREBASE_API_KEY,
     authDomain: process.env.FIREBASE_AUTH_DOMAIN,
@@ -17,37 +17,36 @@ if(process?.env?.FIREBASE_API_KEY){
     messagingSenderId: process.env.FIREBASE_MESSAGING_SENDER_ID,
     appId: process.env.FIREBASE_APP_ID,
     measurementId: process.env.FIREBASE_MEASUREMENT_ID,
-};
-}
-
-firebase.initializeApp(firebaseConfig);
-
-const messaging = firebase.messaging();
-
-messaging.onBackgroundMessage(payload => {
-  const options = {
-    body: payload.notification.body,
-    icon: "https://www.sinpauta.com/sinpauta.png",
-    badge: payload.notification.image,
-    click_action: payload.data.url,
-    data: {
-      url: payload.data.url,
-    },
   };
 
-  return self.registration.showNotification(
-    payload.notification.title,
-    options
-  );
-});
+  firebase.initializeApp(firebaseConfig);
 
-self.addEventListener("notificationclick", function (event) {
-  const url = event.notification.data.url;
+  const messaging = firebase.messaging();
 
-  if (url) {
-    event.waitUntil(clients.openWindow(url)); // Abre la URL en una nueva ventana o pestaña
-  }
-  
-  event.notification.close(); // Cierra la notificación
-});
+  messaging.onBackgroundMessage(payload => {
+    const options = {
+      body: payload.notification.body,
+      icon: "https://www.sinpauta.com/sinpauta.png",
+      badge: payload.notification.image,
+      click_action: payload.data.url,
+      data: {
+        url: payload.data.url,
+      },
+    };
 
+    return self.registration.showNotification(
+      payload.notification.title,
+      options
+    );
+  });
+
+  self.addEventListener("notificationclick", function (event) {
+    const url = event.notification.data.url;
+
+    if (url) {
+      event.waitUntil(clients.openWindow(url)); // Abre la URL en una nueva ventana o pestaña
+    }
+
+    event.notification.close(); // Cierra la notificación
+  });
+}

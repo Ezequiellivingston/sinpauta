@@ -20,7 +20,7 @@ firebase.initializeApp(firebaseConfig);
 
 const messaging = firebase.messaging();
 
-/* messaging.onBackgroundMessage(payload => {
+messaging.onBackgroundMessage(payload => {
   const options = {
     body: payload.notification.body,
     icon: "https://www.sinpauta.com/sinpauta.png",
@@ -36,8 +36,8 @@ const messaging = firebase.messaging();
     options
   );
 });
- */
-self.addEventListener("notificationclick", function (event) {
+
+/* self.addEventListener("notificationclick", function (event) {
   const url = event.notification.data.url;
 
   if (url) {
@@ -45,5 +45,5 @@ self.addEventListener("notificationclick", function (event) {
   }
 
   event.notification.close(); // Cierra la notificación
-});
+}); */
 

@@ -21,7 +21,6 @@ firebase.initializeApp(firebaseConfig);
 const messaging = firebase.messaging();
 
 messaging.onBackgroundMessage(payload => {
-  console.log(payload, "asdasd");
   const options = {
     body: payload.notification.body,
     icon: "/sinpauta.png",
@@ -31,12 +30,6 @@ messaging.onBackgroundMessage(payload => {
       url: payload.data.url,
     },
   };
-
-  const url = payload.data.url;
-
-  if (url) {
-    clients.openWindow(url);
-  }
 
   return self.registration.showNotification(
     payload.notification.title,

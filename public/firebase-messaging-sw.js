@@ -25,20 +25,11 @@ messaging.onBackgroundMessage(payload => {
     body: payload.notification.body,
     icon: "https://www.sinpauta.com/sinpauta.png",
     badge: payload.notification.image,
+    click_action: payload.data.url,
     data: {
-      url: payload.data.url
-    }
+      url: payload.data.url,
+    },
   };
-
-  self.addEventListener("notificationclick", function (event) {
-    const url = event.notification.data.url;
-  
-    if (url) {
-      event.waitUntil(clients.openWindow(url)); // Abre la URL en una nueva ventana o pestaña
-    }
-  
-    event.notification.close(); // Cierra la notificación
-  });
 
   return self.registration.showNotification(
     payload.notification.title,
@@ -46,5 +37,13 @@ messaging.onBackgroundMessage(payload => {
   );
 });
 
+self.addEventListener("notificationclick", function (event) {
+  const url = event.notification.data.url;
 
+  if (url) {
+    event.waitUntil(clients.openWindow(url)); // Abre la URL en una nueva ventana o pestaña
+  }
+  
+  event.notification.close(); // Cierra la notificación
+});
 

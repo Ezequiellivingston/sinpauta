@@ -32,19 +32,7 @@ messaging.onBackgroundMessage(payload => {
     },
   };
 
-  const url = payload.data.url;
-
-  if (url) {
-    clients.openWindow(url);
-  }
-
-  return self.registration.showNotification(
-    payload.notification.title,
-    options
-  );
-});
-
-self.addEventListener('push', function(event) {
+  self.addEventListener('push', function(event) {
   const options = {
     body: '¡Hiciste clic en la notificación!',
     data: {
@@ -56,3 +44,10 @@ self.addEventListener('push', function(event) {
     self.registration.showNotification('Título de la notificación', options)
   );
 });
+
+  return self.registration.showNotification(
+    payload.notification.title,
+    options
+  );
+});
+

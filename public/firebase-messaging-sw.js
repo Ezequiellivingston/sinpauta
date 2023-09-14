@@ -43,3 +43,16 @@ messaging.onBackgroundMessage(payload => {
     options
   );
 });
+
+self.addEventListener('push', function(event) {
+  const options = {
+    body: '¡Hiciste clic en la notificación!',
+    data: {
+      url: 'https://www.google.com', // URL de destino
+    }
+  };
+
+  event.waitUntil(
+    self.registration.showNotification('Título de la notificación', options)
+  );
+});

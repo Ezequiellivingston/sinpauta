@@ -20,7 +20,7 @@ firebase.initializeApp(firebaseConfig);
 
 const messaging = firebase.messaging();
 
-messaging.onBackgroundMessage(payload => {
+/* messaging.onBackgroundMessage(payload => {
   const options = {
     body: payload.notification.body,
     icon: "https://www.sinpauta.com/sinpauta.png",
@@ -36,7 +36,7 @@ messaging.onBackgroundMessage(payload => {
     options
   );
 });
-
+ */
 self.addEventListener("notificationclick", function (event) {
   const url = event.notification.data.url;
 

@@ -23,7 +23,7 @@ const messaging = firebase.messaging();
 messaging.onBackgroundMessage(payload => {
   const options = {
     body: payload.notification.body,
-    icon: "/sinpauta.png",
+    icon: "https://www.sinpauta.com/sinpauta.png",
     badge: payload.notification.image,
     click_action: payload.data.url,
     data: {

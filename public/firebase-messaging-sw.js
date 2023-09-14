@@ -22,7 +22,7 @@ messaging.onBackgroundMessage((payload) => {
     body: payload.notification.body,
     icon: '/sinpauta.png',
     badge: payload.notification.image,
-    click_action: "OPEN_LINK_ACTIVITY",
+    click_action: payload.data.url,
     data: {
       url: payload.data.url,
     },

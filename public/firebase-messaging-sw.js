@@ -30,19 +30,21 @@ messaging.onBackgroundMessage(payload => {
     }
   };
 
+  self.addEventListener("notificationclick", function (event) {
+    const url = event.notification.data.url;
+  
+    if (url) {
+      event.waitUntil(clients.openWindow(url)); // Abre la URL en una nueva ventana o pestaña
+    }
+  
+    event.notification.close(); // Cierra la notificación
+  });
+
   return self.registration.showNotification(
     payload.notification.title,
     options
   );
 });
 
-self.addEventListener("notificationclick", function (event) {
-  const url = event.notification.data.url;
 
-  if (url) {
-    event.waitUntil(clients.openWindow(url)); // Abre la URL en una nueva ventana o pestaña
-  }
-
-  event.notification.close(); // Cierra la notificación
-});
 

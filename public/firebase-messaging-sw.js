@@ -7,7 +7,7 @@ importScripts(
 
 let firebaseConfig = {};
 
-if(process.env.FIREBASE_API_KEY){
+if(process?.env?.FIREBASE_API_KEY){
   firebaseConfig = {
     apiKey: process.env.FIREBASE_API_KEY,
     authDomain: process.env.FIREBASE_AUTH_DOMAIN,

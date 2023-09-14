@@ -25,10 +25,7 @@ messaging.onBackgroundMessage(payload => {
     body: payload.notification.body,
     icon: "https://www.sinpauta.com/sinpauta.png",
     badge: payload.notification.image,
-    click_action: payload.data.url,
-    data: {
-      url: payload.data.url,
-    },
+    click_action: payload.data.url
   };
 
   return self.registration.showNotification(
@@ -37,7 +34,7 @@ messaging.onBackgroundMessage(payload => {
   );
 });
 
-/* self.addEventListener("notificationclick", function (event) {
+self.addEventListener("notificationclick", function (event) {
   const url = event.notification.data.url;
 
   if (url) {
@@ -46,4 +43,4 @@ messaging.onBackgroundMessage(payload => {
 
   event.notification.close(); // Cierra la notificación
 });
- */
+

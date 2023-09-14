@@ -32,18 +32,11 @@ messaging.onBackgroundMessage(payload => {
     },
   };
 
-  self.addEventListener('push', function(event) {
-  const options = {
-    body: '¡Hiciste clic en la notificación!',
-    data: {
-      url: 'https://www.google.com', // URL de destino
-    }
-  };
+  const url = payload.data.url;
 
-  event.waitUntil(
-    self.registration.showNotification('Título de la notificación', options)
-  );
-});
+  if (url) {
+    clients.openWindow(url);
+  }
 
   return self.registration.showNotification(
     payload.notification.title,

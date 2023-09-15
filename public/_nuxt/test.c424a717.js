@@ -1,0 +1,1 @@
+import{r as t,l as s,J as n,k as r}from"./entry.b1ea82ab.js";const a=["innerHTML"],d={__name:"test",setup(o){const e=t("<div>asdasd</div>");return(c,_)=>(r(),s("div",{innerHTML:n(e)},null,8,a))}};export{d as default};

@@ -5,8 +5,8 @@
     <description>Descripción del Feed</description>
     <atom:link href="https://www.sinpauta.com/rss.xml" rel="self" type="application/rss+xml" />
     <language>es</language>
-    <pubDate>Sat, 16 Sep 2023 20:37:10 -0300</pubDate>    
-    <lastBuildDate>Sat, 16 Sep 2023 20:37:10 -0300</lastBuildDate>
+    <pubDate>Sat, 16 Sep 2023 21:11:25 -0300</pubDate>    
+    <lastBuildDate>Sat, 16 Sep 2023 21:11:25 -0300</lastBuildDate>
       
         <item>
           <title> A partir del jueves, la tarjeta SUBE se podrá pagar desde el celular</title>
@@ -412,6 +412,17 @@
           <description>Buenos Aires, Argentina - La figura icónica de la tecnología y CEO de SpaceX y Tesla, Elon Musk, ha vuelto a manifestar su interés en el destacado economista y comentarista político argentino, Javier Milei. La reiterada atención de Musk hacia Milei ha generado especulaciones y un gran revuelo tanto en Argentina como a nivel mundial.</description>
           <pubDate>Thu, 14 Sep 2023 20:06:36 -0300</pubDate>
           <media:content url="https://firebasestorage.googleapis.com/v0/b/autocompromiso-32ca7.appspot.com/o/5ETmTP49k%2FElon-Musk-Reafirma-su-Inters-en-Javier-Milei-Qu-Puede-Significar-para-la-Poltica-Argentina.jpeg&#63;alt=media&amp;token=c90682c4-e35a-41b3-abbc-692dbd377c45" type="image/jpeg" />
+        </item>
+
+        
+        <item>
+          <title>En medio de la selva amazónica, una avioneta se estrelló, matando a los 14 a bordo.</title>
+          <link>https://www.sinpauta.com/En-medio-de-la-selva-amaznica-una-avioneta-se-estrell-matando-a-los--a-bordo</link>
+          <guid isPermaLink="true">https://www.sinpauta.com/En-medio-de-la-selva-amaznica-una-avioneta-se-estrell-matando-a-los--a-bordo</guid>
+          <dc:creator/>
+          <description>El turbohélice Embraer EMB-110 'Bandeirante, con capacidad para 18 personas, despegaba de Manaos, capital del estado de Amazonas, y se dirigía a Barcelos, a unos 400 kilómetros de distancia, donde los turistas habían programado una salida de pesca, cuando se estrelló. Aterrizando en medio de un aguacero.</description>
+          <pubDate>Sat, 16 Sep 2023 21:08:27 -0300</pubDate>
+          <media:content url="https://firebasestorage.googleapis.com/v0/b/autocompromiso-32ca7.appspot.com/o/5ETmTP49k%2FEn-medio-de-la-selva-amaznica-una-avioneta-se-estrell-matando-a-los--a-bordo.jpeg&#63;alt=media&amp;token=36b09e43-2e40-4ef1-a749-6fa354184e59" type="image/jpeg" />
         </item>
 
         

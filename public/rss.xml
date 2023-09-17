@@ -5,8 +5,8 @@
     <description>Descripción del Feed</description>
     <atom:link href="https://www.sinpauta.com/rss.xml" rel="self" type="application/rss+xml" />
     <language>es</language>
-    <pubDate>Sun, 17 Sep 2023 12:57:28 -0300</pubDate>    
-    <lastBuildDate>Sun, 17 Sep 2023 12:57:28 -0300</lastBuildDate>
+    <pubDate>Sun, 17 Sep 2023 13:30:17 -0300</pubDate>    
+    <lastBuildDate>Sun, 17 Sep 2023 13:30:17 -0300</lastBuildDate>
       
         <item>
           <title> A partir del jueves, la tarjeta SUBE se podrá pagar desde el celular</title>
@@ -555,6 +555,17 @@
           <description></description>
           <pubDate>Wed, 13 Sep 2023 14:40:34 -0300</pubDate>
           <media:content url="https://firebasestorage.googleapis.com/v0/b/autocompromiso-32ca7.appspot.com/o/5ETmTP49k%2FImportante-Mejora-para-las-Beneficiarias-de-la-AUH-a-partir-de-Octubre-de--segn-ANSES.jpeg&#63;alt=media&amp;token=9d76e30a-a6b7-4d0c-8491-d783844c0f50" type="image/jpeg" />
+        </item>
+
+        
+        <item>
+          <title>Incendio Devastador en Playa San Agustín, Mendoza: Familias Evacuadas y Autos Consumidos por las Llamas</title>
+          <link>https://www.sinpauta.com/Incendio-Devastador-en-Playa-San-Agustn-Mendoza-Familias-Evacuadas-y-Autos-Consumidos-por-las-Llamas</link>
+          <guid isPermaLink="true">https://www.sinpauta.com/Incendio-Devastador-en-Playa-San-Agustn-Mendoza-Familias-Evacuadas-y-Autos-Consumidos-por-las-Llamas</guid>
+          <dc:creator/>
+          <description>Un voraz incendio estremeció la tranquilidad de la Playa San Agustín, en Mendoza, en las primeras horas de este sábado. Las llamas, avivadas por las fuertes ráfagas de viento Zonda que surgieron en la noche, dejaron una estela de destrucción a su paso.</description>
+          <pubDate>Sun, 17 Sep 2023 13:27:36 -0300</pubDate>
+          <media:content url="https://firebasestorage.googleapis.com/v0/b/autocompromiso-32ca7.appspot.com/o/5ETmTP49k%2FIncendio-Devastador-en-Playa-San-Agustn-Mendoza-Familias-Evacuadas-y-Autos-Consumidos-por-las-Llamas.jpeg&#63;alt=media&amp;token=a8b11f7c-c48c-47b4-910f-261b1ce21ba5" type="image/jpeg" />
         </item>
 
         

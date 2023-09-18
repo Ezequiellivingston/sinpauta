@@ -5,8 +5,8 @@
     <description>Descripción del Feed</description>
     <atom:link href="https://www.sinpauta.com/rss.xml" rel="self" type="application/rss+xml" />
     <language>es</language>
-    <pubDate>Mon, 18 Sep 2023 11:17:15 -0300</pubDate>    
-    <lastBuildDate>Mon, 18 Sep 2023 11:17:15 -0300</lastBuildDate>
+    <pubDate>Mon, 18 Sep 2023 13:41:10 -0300</pubDate>    
+    <lastBuildDate>Mon, 18 Sep 2023 13:41:10 -0300</lastBuildDate>
       
         <item>
           <title> A partir del jueves, la tarjeta SUBE se podrá pagar desde el celular</title>
@@ -720,6 +720,17 @@
           <description> El mes de agosto trajo consigo una lista de los artistas más escuchados en la plataforma de streaming de música Spotify. Los datos revelan las preferencias de los oyentes en todo el mundo y muestran una variada selección de artistas de diversos géneros musicales. Aquí te presentamos los artistas más destacados en Spotify durante este mes:</description>
           <pubDate>Sun, 10 Sep 2023 18:27:06 -0300</pubDate>
           <media:content url="https://firebasestorage.googleapis.com/v0/b/autocompromiso-32ca7.appspot.com/o/5ETmTP49k%2FLos-Artistas-Ms-Escuchados-en-Spotify-en-Agosto-The-Weeknd-Taylor-Swift-y-Bad-Bunny-Encabezan-la-Lista.jpeg&#63;alt=media&amp;token=d7ad992d-8b4d-4a88-bca8-6338c055ea72" type="image/jpeg" />
+        </item>
+
+        
+        <item>
+          <title>Luego de ser liberado, Jorge Lanata volvió a la radio y dijo: "Fue complicado"</title>
+          <link>https://www.sinpauta.com/Luego-de-ser-liberado-Jorge-Lanata-volvi-a-la-radio-y-dijo-Fue-complicado</link>
+          <guid isPermaLink="true">https://www.sinpauta.com/Luego-de-ser-liberado-Jorge-Lanata-volvi-a-la-radio-y-dijo-Fue-complicado</guid>
+          <dc:creator/>
+          <description>El periodista volvió este lunes a conducir su programa en Mitre luego de permanecer internado durante varias semanas</description>
+          <pubDate>Sun, 17 Sep 2023 13:39:16 -0300</pubDate>
+          <media:content url="https://firebasestorage.googleapis.com/v0/b/autocompromiso-32ca7.appspot.com/o/5ETmTP49k%2FLuego-de-ser-liberado-Jorge-Lanata-volvi-a-la-radio-y-dijo-Fue-complicado.jpeg&#63;alt=media&amp;token=aeec5eb1-8269-43d3-bf85-5868b24add81" type="image/jpeg" />
         </item>
 
         

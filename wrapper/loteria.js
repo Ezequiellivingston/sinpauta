@@ -20,7 +20,7 @@ async function inyectHtml(url) {
     )
       .then(res => res.text())
       .then(res => res); 
-    const nuevoElement = $(searchElement);
+    const nuevoElement = $(`<div>hola</div>`);
     
     loteriaIframe.append(nuevoElement);
     

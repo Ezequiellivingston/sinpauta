@@ -4,7 +4,7 @@
         <loc>https://www.sinpauta.com/%C3%9Altimas-Noticias-de-River-Plate---Jueves-31-de-Agosto</loc>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
-        <lastmod>2023-09-18T16:42:45+00:00</lastmod>
+        <lastmod>2023-09-18T16:58:55+00:00</lastmod>
     </url>
     <url>
         <loc>https://www.sinpauta.com/-A-partir-del-jueves-la-tarjeta-SUBE-se-podr-pagar-desde-el-celular</loc>
@@ -280,7 +280,7 @@
         <loc>https://www.sinpauta.com/Destacados-en-la-Reuni%C3%B3n-de-Ministros-de-Exteriores-de-la-UE-en-Toledo-Ucrania-en-el-Centro-de-Atenci%C3%B3n</loc>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
-        <lastmod>2023-09-18T16:42:45+00:00</lastmod>
+        <lastmod>2023-09-18T16:58:55+00:00</lastmod>
     </url>
     <url>
         <loc>https://www.sinpauta.com/Destacados-en-la-Reunión-de-Ministros-de-Exteriores-de-la-UE-en-Toledo-Ucrania-en-el-Centro-de-Atención</loc>
@@ -688,6 +688,15 @@
         </image:image>
     </url>
     <url>
+        <loc>https://www.sinpauta.com/Primer-colombiano-extraditado-a-EEUU-por-venta-de-fentanilo</loc>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+        <lastmod>2023-09-17T16:53:17+00:00</lastmod>
+        <image:image>
+            <image:loc>https://firebasestorage.googleapis.com/v0/b/autocompromiso-32ca7.appspot.com/o/5ETmTP49k%2FPrimer-colombiano-extraditado-a-EEUU-por-venta-de-fentanilo.jpeg?alt=media&amp;amp;token=1c4861d0-968d-4472-88df-6a406413068d</image:loc>
+        </image:image>
+    </url>
+    <url>
         <loc>https://www.sinpauta.com/River-Plate-Demichelis-ultima-detalles-y-ensaya-equipo-ante-la-Universidad-Catlica-en-amistoso</loc>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
@@ -826,37 +835,37 @@
         <loc>https://www.sinpauta.com/colombia</loc>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
-        <lastmod>2023-09-18T16:42:46+00:00</lastmod>
+        <lastmod>2023-09-18T16:58:55+00:00</lastmod>
     </url>
     <url>
         <loc>https://www.sinpauta.com/dolar</loc>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
-        <lastmod>2023-09-18T16:42:46+00:00</lastmod>
+        <lastmod>2023-09-18T16:58:55+00:00</lastmod>
     </url>
     <url>
         <loc>https://www.sinpauta.com/españa</loc>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
-        <lastmod>2023-09-18T16:42:46+00:00</lastmod>
+        <lastmod>2023-09-18T16:58:55+00:00</lastmod>
     </url>
     <url>
         <loc>https://www.sinpauta.com/loteria</loc>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
-        <lastmod>2023-09-18T16:42:46+00:00</lastmod>
+        <lastmod>2023-09-18T16:58:55+00:00</lastmod>
     </url>
     <url>
         <loc>https://www.sinpauta.com/mexico</loc>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
-        <lastmod>2023-09-18T16:42:46+00:00</lastmod>
+        <lastmod>2023-09-18T16:58:55+00:00</lastmod>
     </url>
     <url>
         <loc>https://www.sinpauta.com/peru</loc>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
-        <lastmod>2023-09-18T16:42:46+00:00</lastmod>
+        <lastmod>2023-09-18T16:58:55+00:00</lastmod>
     </url>
     <url>
         <loc>https://www.sinpauta.com/Últimas-Noticias-de-River-Plate---Jueves-31-de-Agosto</loc>

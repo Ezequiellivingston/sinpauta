@@ -1,0 +1,6 @@
+# Nuxt dev/build outputs
+node_modules
+wrapper
+index.js
+package-lock.json
+package.json

@@ -12,7 +12,8 @@ async function inyectHtml(url) {
 
   const loteriaIframe = $('#iframe-loteria');
 
-  // Verificar si se encontró el elemento
+  console.log(loteriaIframe)
+
   if (loteriaIframe.length > 0) {
     let searchElement = await fetch(
       "https://hello-world-jolly-bread-90e7.pabloezelivingston.workers.dev/"

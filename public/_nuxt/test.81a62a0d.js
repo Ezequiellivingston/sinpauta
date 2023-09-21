@@ -1,1 +1,0 @@
-import{r as a,o,l as n,k as t}from"./entry.32a06f96.js";const l={__name:"test",setup(r){const e=a();return o(()=>{e.value=navigator.language||navigator.userLanguage,console.log(e.value)}),(s,u)=>(t(),n("div"))}};export{l as default};

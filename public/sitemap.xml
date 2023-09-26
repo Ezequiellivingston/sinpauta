@@ -4,7 +4,7 @@
         <loc>https://www.sinpauta.com/%C3%9Altimas-Noticias-de-River-Plate---Jueves-31-de-Agosto</loc>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
-        <lastmod>2023-09-22T10:04:40+00:00</lastmod>
+        <lastmod>2023-09-26T14:53:59+00:00</lastmod>
     </url>
     <url>
         <loc>https://www.sinpauta.com/-A-partir-del-jueves-la-tarjeta-SUBE-se-podr-pagar-desde-el-celular</loc>
@@ -298,7 +298,7 @@
         <loc>https://www.sinpauta.com/Destacados-en-la-Reuni%C3%B3n-de-Ministros-de-Exteriores-de-la-UE-en-Toledo-Ucrania-en-el-Centro-de-Atenci%C3%B3n</loc>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
-        <lastmod>2023-09-22T10:04:41+00:00</lastmod>
+        <lastmod>2023-09-26T14:53:59+00:00</lastmod>
     </url>
     <url>
         <loc>https://www.sinpauta.com/Destacados-en-la-Reunión-de-Ministros-de-Exteriores-de-la-UE-en-Toledo-Ucrania-en-el-Centro-de-Atención</loc>
@@ -328,12 +328,30 @@
         </image:image>
     </url>
     <url>
+        <loc>https://www.sinpauta.com/El-estrs-laboral-conocido-como-burnout-est-afectando-a-un-alarmante--de-los-cardilogos-en-Argentina-segn-un-informe-de-la-Sociedad-Argentina-de-Cardiologa</loc>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+        <lastmod>2023-09-26T14:46:51+00:00</lastmod>
+        <image:image>
+            <image:loc>https://firebasestorage.googleapis.com/v0/b/autocompromiso-32ca7.appspot.com/o/5ETmTP49k%2FEl-estrs-laboral-conocido-como-burnout-est-afectando-a-un-alarmante--de-los-cardilogos-en-Argentina-segn-un-informe-de-la-Sociedad-Argentina-de-Cardiologa.jpeg?alt=media&amp;amp;token=f5c2f64f-f04b-4faa-9a61-7c92684d0eea</image:loc>
+        </image:image>
+    </url>
+    <url>
         <loc>https://www.sinpauta.com/El-fundador-de-una-empresa-de-criptomonedas-en-Turqua-ha-sido-sentenciado-a-una-pena-de-prisin-que-supera-los--aos</loc>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
         <lastmod>2023-09-08T20:30:09+00:00</lastmod>
         <image:image>
             <image:loc>https://firebasestorage.googleapis.com/v0/b/autocompromiso-32ca7.appspot.com/o/5ETmTP49k%2FEl-fundador-de-una-empresa-de-criptomonedas-en-Turqua-ha-sido-sentenciado-a-una-pena-de-prisin-que-supera-los--aos.jpeg?alt=media&amp;amp;token=1dcd4ca3-9399-4ec9-9733-07e1a9489c25</image:loc>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://www.sinpauta.com/El-fundador-y-CEO-de-Mercado-Libre-Marcos-Galperin-ha-expresado-su-descontento-con-una-nueva-normativa-del-Banco-Central-de-Argentina</loc>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+        <lastmod>2023-09-26T14:22:51+00:00</lastmod>
+        <image:image>
+            <image:loc>https://firebasestorage.googleapis.com/v0/b/autocompromiso-32ca7.appspot.com/o/5ETmTP49k%2FEl-fundador-y-CEO-de-Mercado-Libre-Marcos-Galperin-ha-expresado-su-descontento-con-una-nueva-normativa-del-Banco-Central-de-Argentina.jpeg?alt=media&amp;amp;token=0c5436d7-a1c1-442f-95ed-a4729f00ec5d</image:loc>
         </image:image>
     </url>
     <url>
@@ -568,6 +586,15 @@
         <lastmod>2023-09-11T16:21:49+00:00</lastmod>
         <image:image>
             <image:loc>https://firebasestorage.googleapis.com/v0/b/autocompromiso-32ca7.appspot.com/o/5ETmTP49k%2FLa-Iglesia-responde-con-firmeza-a-las-crticas-de-Javier-Milei-hacia-el-Papa-Francisco-El-Papa-merece-respeto.jpeg?alt=media&amp;amp;token=8a4aa4d1-e953-466e-982b-9167615552b8</image:loc>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://www.sinpauta.com/La-Justicia-de-La-Pampa-ha-confirmado-las-penas-de-prisin-perpetua-para-Magdalena-Espsito-Valenti-y-Abigail-Pez-por-el-asesinato-de-Lucio-Abel-Dupuy-un-nio-de--aos</loc>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+        <lastmod>2023-09-26T14:36:16+00:00</lastmod>
+        <image:image>
+            <image:loc>https://firebasestorage.googleapis.com/v0/b/autocompromiso-32ca7.appspot.com/o/5ETmTP49k%2FLa-Justicia-de-La-Pampa-ha-confirmado-las-penas-de-prisin-perpetua-para-Magdalena-Espsito-Valenti-y-Abigail-Pez-por-el-asesinato-de-Lucio-Abel-Dupuy-un-nio-de--aos.jpeg?alt=media&amp;amp;token=d2cbe2cc-a275-4d9e-9674-9539aaabb8dc</image:loc>
         </image:image>
     </url>
     <url>
@@ -898,31 +925,31 @@
         <loc>https://www.sinpauta.com/colombia</loc>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
-        <lastmod>2023-09-22T10:04:41+00:00</lastmod>
+        <lastmod>2023-09-26T14:53:59+00:00</lastmod>
     </url>
     <url>
         <loc>https://www.sinpauta.com/dolar</loc>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
-        <lastmod>2023-09-22T10:04:41+00:00</lastmod>
+        <lastmod>2023-09-26T14:53:59+00:00</lastmod>
     </url>
     <url>
         <loc>https://www.sinpauta.com/españa</loc>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
-        <lastmod>2023-09-22T10:04:41+00:00</lastmod>
+        <lastmod>2023-09-26T14:53:59+00:00</lastmod>
     </url>
     <url>
         <loc>https://www.sinpauta.com/mexico</loc>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
-        <lastmod>2023-09-22T10:04:41+00:00</lastmod>
+        <lastmod>2023-09-26T14:53:59+00:00</lastmod>
     </url>
     <url>
         <loc>https://www.sinpauta.com/peru</loc>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
-        <lastmod>2023-09-22T10:04:41+00:00</lastmod>
+        <lastmod>2023-09-26T14:53:59+00:00</lastmod>
     </url>
     <url>
         <loc>https://www.sinpauta.com/Últimas-Noticias-de-River-Plate---Jueves-31-de-Agosto</loc>
